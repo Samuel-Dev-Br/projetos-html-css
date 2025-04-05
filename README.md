@@ -8,7 +8,7 @@ Você pode visualizar os projetos publicados através do GitHub Pages clicando n
 
 [**Ver site**](https://samuel-dev-br.github.io/projetos-html-css/)
 
-💻## Tecnologias usadas
+## Tecnologias usadas 💻
 
 - HTML5
 - CSS3
