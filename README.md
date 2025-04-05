@@ -1,22 +1,14 @@
-# Projetos HTML e CSS
+# Projetos HTML e CSS 🧑‍💻
 
-Repositório com projetos simples de front-end desenvolvidos com **HTML** e **CSS** durante meus estudos.
+Repositório com meus primeiros projetos de front-end desenvolvidos durante meus estudos em **HTML5** e **CSS3**.
 
-## Acesse os projetos online
+![Capa do Projeto](https://samueldevbr.github.io/projetos-html-css/imagens/capa.png) <!-- Substitua pelo caminho da sua imagem, se quiser -->
 
-Você pode visualizar os projetos publicados através do GitHub Pages clicando no link abaixo:
+## 🔗 Acesse o site publicado
 
-[**Ver site**](https://samuel-dev-br.github.io/projetos-html-css/)
+Você pode visualizar o projeto online clicando no link abaixo:
 
-## Tecnologias usadas
+[**➡ Ver site no GitHub Pages**](https://samueldevbr.github.io/projetos-html-css/)
 
-- HTML5
-- CSS3
+## 🗂 Estrutura
 
-## Sobre mim
-
-Meu nome é **Samuel**, tenho 17 anos e sou estudante do curso técnico em análise e desenvolvimento de sistemas na Escola Polivalente de Barbacena - MG.
-
----
-
-Sinta-se à vontade para explorar, clonar ou dar sugestões!
