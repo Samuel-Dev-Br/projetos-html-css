@@ -15,7 +15,7 @@ Você pode visualizar os projetos publicados através do GitHub Pages clicando n
 
 ## Sobre mim
 
-Meu nome é **Samuel**, tenho 17 anos e sou estudante do curso técnico em Informática na Escola Polivalente de Barbacena - MG.
+Meu nome é **Samuel**, tenho 17 anos e sou estudante do curso técnico em análise e desenvolvimento de sistemas na Escola Polivalente de Barbacena - MG.
 
 ---
 
