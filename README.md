@@ -19,4 +19,4 @@ Meu nome é **Samuel**, tenho 17 anos e sou estudante do curso técnico em anál
 
 ---
 
-Sinta-se à vontade para explorar, clonar ou dar sugestões!
+Sinta-se à vontade para explorar e dar sugestões!
